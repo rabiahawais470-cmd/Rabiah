@@ -8,7 +8,10 @@ I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Curre
 💻 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-https://camo.githubusercontent.com/ca8ef1426ea395c107e775de0398de385ab981d5fda7592f0e7b70216c825b52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 ---
 🔒 Cybersecurity Passion
 
