@@ -1,6 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Fira+Code&weight=600&size=26&duration=2800&pause=700&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi+there%2C+I'm+Rabiah;Aspiring+Cybersecurity+Specialist;Passionate+about+Ethical+Hacking+%26+Network+Security)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&center=true&vCenter=true&multiline=true&w
+
 
 <p align="center">
   <img
