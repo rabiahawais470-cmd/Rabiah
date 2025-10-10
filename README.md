@@ -1,4 +1,5 @@
 # Rabiah
+
 👋 About Me
 I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer.  
 Currently pursuing my Bachelor’s in Cybersecurity at Asia Pacific University (APU) after completing my Foundation Programme (Computing & Technology Route).  
@@ -6,6 +7,7 @@ I’m passionate about building secure, efficient systems — and ethically brea
 
 ---
 💻 Technical Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
