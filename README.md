@@ -14,9 +14,8 @@ I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Curre
 
 ---
 🔒 Cybersecurity Passion
-
-- Network security, phishing detection, and secure application design  
-- Interested in ethical hacking, vulnerability testing, and digital forensics  
+ 
+- Interested in ethical hacking, vulnerability testing, phishing detection, and secure application design 
 - I enjoy exploring CTFs, penetration testing labs, and writing small security scripts  
 
 ---
