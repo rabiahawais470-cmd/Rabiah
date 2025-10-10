@@ -1,9 +1,8 @@
 # Rabiah
 
 👋 About Me
-I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer.  
-Currently pursuing my Bachelor’s in Cybersecurity at Asia Pacific University (APU) after completing my Foundation Programme (Computing & Technology Route).  
-I’m passionate about building secure, efficient systems — and ethically breaking them to understand how to defend them.
+
+I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Currently pursuing my Bachelor’s in Cybersecurity at Asia Pacific University (APU) after completing my Foundation Programme (Computing & Technology Route). I’m passionate about building secure, efficient systems — and ethically breaking them to understand how to defend them.
 
 ---
 💻 Technical Skills
@@ -12,17 +11,20 @@ I’m passionate about building secure, efficient systems — and ethically brea
 
 ---
 🔒 Cybersecurity Passion
+
 - Network security, phishing detection, and secure application design  
 - Interested in ethical hacking, vulnerability testing, and digital forensics  
 - I enjoy exploring CTFs, penetration testing labs, and writing small security scripts  
 
 ---
 🌱 Growth Mindset
+
 Continuous learning, collaboration on open-source, and building real-world projects.
 Always shipping: code, docs, and small demos.
 
 ---
 🚀 Career Goals
+
 Short term: System Analyst / Software Engineer
 Long term: Cybersecurity Engineering — protecting organizations while building safer tech.
 
@@ -39,6 +41,7 @@ Long term: Cybersecurity Engineering — protecting organizations while building
 
 ---
 🏆 Achievements & Certifications
+
 - TryHackMe: Introduction to Cybersecurity  
 - Cisco Networking Essentials  
 - Google Cybersecurity Fundamentals  
@@ -55,6 +58,7 @@ Specialism: Cybersecurity
 
 ---
 🤝 Let’s Connect
+
 💼 Open to internships, projects, and collaborations
 📫 Reach me on LinkedIn or Email above
 
