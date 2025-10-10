@@ -19,8 +19,8 @@ I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Curre
 ---
 🌱 Growth Mindset
 
-Continuous learning, collaboration on open-source, and building real-world projects.
-Always shipping: code, docs, and small demos.
+- Continuous learning, collaboration on open-source, and building real-world projects.
+- Always shipping: code, docs, and small demos.
 
 ---
 🚀 Career Goals
@@ -59,6 +59,7 @@ Specialism: Cybersecurity
 ---
 🤝 Let’s Connect
 
-💼 Open to internships, projects, and collaborations
-📫 Reach me on LinkedIn or Email above
+- 💼 Open to internships, projects, and collaborations
+- 📫 Reach me on LinkedIn or Email above
+
 
