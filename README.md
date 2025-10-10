@@ -28,8 +28,8 @@ I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Curre
 ---
 🚀 Career Goals
 
-Short term: System Analyst / Software Engineer
-Long term: Cybersecurity Engineering — protecting organizations while building safer tech.
+- Short term: System Analyst / Software Engineer
+- Long term: Cybersecurity Engineering — protecting organizations while building safer tech.
 
 ---
 📌 Featured Projects
