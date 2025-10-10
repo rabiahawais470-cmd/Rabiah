@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&center=true&vCenter=true&multiline=true&w)]()
 
 
 
@@ -40,8 +39,8 @@ I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Curre
 ---
 🚀 Career Goals
 
-- Short term: System Analyst / Software Engineer
-- Long term: Cybersecurity Engineering — protecting organizations while building safer tech.
+- Short term: Vulnerability Analyst / Threat Analyst
+- Long term: Red Team Specialist (Offensive) / Blue Team Analyst (Defensive)
 
 ---
 📌 Featured Projects
