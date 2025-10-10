@@ -1,6 +1,4 @@
-## Hi there, I'm Rabiah  
-
-![Cybersecurity Animation](https://camo.githubusercontent.com/b4253ffac149e3a23ff86f3e5576515ca1adbabbb006636d49cd2ef473f844d1/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578617a6434596e68344e48686c6547563563446c354e544a72636e41314e474d356447646a616e4d77616d5236597a42736454686959795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&center=true&vCenter=true&multiline=true&width=950&height=90&lines=Hi+there%2C+I'm+Rabiah;Aspiring+Cybersecurity+Specialist+%26+Software+Developer;Passionate+about+Building+and+Securing+Digital+Systems;Ethical+Hacker+in+Training+at+APU)](https://git.io/typing-svg)
 
 ---
 👋 About Me
