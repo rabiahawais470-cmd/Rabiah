@@ -59,6 +59,7 @@ I’m Rabiah, an aspiring Cybersecurity Specialist. Currently pursuing my Bachel
 - ZERO TO CYBER HERO: HANDS-ON HACKING    
 - BOH Prep Workshop (FSEC-SS, APU)
 - Red Hat Acadamy (in progress)
+- CCNA (in progress)
 
 
 ---
