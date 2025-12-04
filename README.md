@@ -14,12 +14,11 @@
 ---
 👋 About Me
 
-I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Currently pursuing my Bachelor’s in Cybersecurity at Asia Pacific University (APU) after completing my Foundation Programme (Computing & Technology Route). I’m passionate about building secure, efficient systems — and ethically breaking them to understand how to defend them.
+I’m Rabiah, an aspiring Cybersecurity Specialist. Currently pursuing my Bachelor’s in Cybersecurity at Asia Pacific University (APU) after completing my Foundation Programme (Computing & Technology Route). I’m passionate about building secure, efficient systems — and ethically breaking them to understand how to defend them.
 
 ---
 💻 Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -56,10 +55,10 @@ I’m Rabiah, an aspiring Cybersecurity Specialist and Software Developer. Curre
 ---
 🏆 Achievements & Certifications
 
-- TryHackMe: Introduction to Cybersecurity  
-- Cisco Networking Essentials  
-- Google Cybersecurity Fundamentals  
-- CompTIA Security+ (In Progress)
+- TryHackMe: Introduction to Cybersecurity
+- ZERO TO CYBER HERO: HANDS-ON HACKING    
+- BOH Prep Workshop (FSEC-SS, APU)
+- Red Hat Acadamy (in progress)
 
 
 ---
