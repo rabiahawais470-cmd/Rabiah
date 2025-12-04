@@ -27,6 +27,8 @@ I’m Rabiah, an aspiring Cybersecurity Specialist. Currently pursuing my Bachel
 [![Cryptography](https://img.shields.io/badge/Cryptography-5A45FF?style=for-the-badge&logo=apache%20kylin&logoColor=white)]()
 [![Steganography](https://img.shields.io/badge/Steganography-8A2BE2?style=for-the-badge&logo=detective&logoColor=white)]()
 [![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF4C4C?style=for-the-badge&logo=ghidra&logoColor=white)]()
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)]()
+
 
 
 
