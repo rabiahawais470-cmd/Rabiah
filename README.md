@@ -22,6 +22,15 @@ I’m Rabiah, an aspiring Cybersecurity Specialist. Currently pursuing my Bachel
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)]()
+[![Web Security](https://img.shields.io/badge/Web%20Security-FFA500?style=for-the-badge&logo=owasp&logoColor=white)]()
+[![Cryptography](https://img.shields.io/badge/Cryptography-5A45FF?style=for-the-badge&logo=apache%20kylin&logoColor=white)]()
+[![Steganography](https://img.shields.io/badge/Steganography-8A2BE2?style=for-the-badge&logo=detective&logoColor=white)]()
+[![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF4C4C?style=for-the-badge&logo=ghidra&logoColor=white)]()
+
+
+
+
 
 ---
 🔒 Cybersecurity Passion
